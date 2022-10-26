@@ -9,3 +9,5 @@ Within this time, I have worked on cryospheric remote sensing and GIS projects w
 *Research interests*: ice sheet surface hydrology, ice shelf evolution, ice shelf-sea ice-mélange interactions, surface climate-firn-mass balance interactions.
 
 *Remote sensing interests*: satellite imagery classification and analysis methods, glacier and ice shelf change detection, remote sensing evaluation of polar regional climate models.
+
+Contact: jennifer.arthur@npolar.no
