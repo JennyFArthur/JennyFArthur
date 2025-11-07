@@ -14,4 +14,4 @@ Within this time, I have worked on cryospheric remote sensing and GIS projects w
 
 *Remote sensing interests*: glacier and ice-shelf structural and calving front change detection (including iceberg calving), satellite imagery classification and analysis methods, remote sensing evaluation of polar regional climate models.
 
-Contact: jennifer.arthur@npolar.no
+Contact: jennyflo94@gmail.com
